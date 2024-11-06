@@ -16,7 +16,7 @@ for (let i = 0; i < rotacionEvento.length; i++) {
 
 
 
-const enviarcorreo = document.querySelectorAll('.enviarcorreo')
+const enviarcorreo = document.querySelectorAll('.enviarcorreo');
 
 
 for (let i = 0; i < enviarcorreo.length; i++) {
