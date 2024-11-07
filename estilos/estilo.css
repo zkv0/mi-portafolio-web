@@ -36,6 +36,8 @@ p {
     margin: 5px 0px;
 }
 
+
+
 .section {
     max-width: 1000px;
     width: 100%;
@@ -82,6 +84,7 @@ p {
 .miinfocontacto {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .miinfocontacto button {
